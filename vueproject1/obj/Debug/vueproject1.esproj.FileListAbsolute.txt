@@ -1,0 +1,2 @@
+D:\Repos\Vue test2\vueproject1\vueproject1\obj\Debug\vueproject1.esproj.CoreCompileInputs.cache
+D:\Repos\VueJSproject1\vueproject1\vueproject1\obj\Debug\vueproject1.esproj.CoreCompileInputs.cache
